@@ -1,4 +1,4 @@
-from CustomPwnLib import BeginPwn
+from CustomLib import BeginPwn
 
 from pwn import *
 
